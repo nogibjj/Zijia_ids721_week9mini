@@ -1,5 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Mini project week 9
+
+Calculate the factorial of a number
 
 ## References
 
